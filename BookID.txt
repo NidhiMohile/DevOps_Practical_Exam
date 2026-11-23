@@ -1,2 +1,4 @@
-Book Name = "Be Wiser" 
+Book1 Name = "Be Wiser" 
 Book ID = 101.
+Book2 Name = "Eat the frog"
+Book ID = 105.
